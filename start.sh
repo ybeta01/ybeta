@@ -1,2 +1,2 @@
 uname -a
-uptime
+uptime >> abc.txt
