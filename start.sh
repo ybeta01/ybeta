@@ -1,2 +1,1 @@
-uname -a
-uptime >> abc.txt
+sleep 1800;
